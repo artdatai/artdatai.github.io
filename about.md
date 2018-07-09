@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Name : Kim H.H.
 
-### More Information
+Maintask : Linux(centOs, Ubuntu), Python, Java, C, IBM solution, Web Crawling, docker.
 
-A place to include any other types of information that you'd like to include about yourself.
+Subtask : server management, kaldi, geant4, C++, kubernates and so on.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[khh0929@naver.com](mailto:khh0929@naver.com)
